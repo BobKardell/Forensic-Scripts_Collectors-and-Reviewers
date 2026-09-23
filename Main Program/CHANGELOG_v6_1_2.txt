@@ -1,0 +1,6 @@
+Fraud Fighter Toolbox Suite v6.1.2
+
+Registry Artifacts Explorer 3.0.2
+- Fixed hive discovery crash caused by an undefined user_from_path() helper.
+- Hive-location caching now uses the existing user_context_for_hive() helper.
+- Hive discovery can now complete, cache discovered hives, refresh the hive grid, and update summary counters.

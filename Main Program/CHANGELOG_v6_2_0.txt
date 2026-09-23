@@ -1,0 +1,10 @@
+Fraud Fighter Toolbox Suite v6.2.0
+
+Added Windows Event Log Explorer v1.0.0.
+- Discovers .evtx and legacy .evt files from mounted Windows evidence.
+- Stores discovered log files, parsed events, and parsing errors in the case database.
+- Parses offline EVTX files with built-in Windows wevtutil; supports python-evtx as a non-Windows fallback.
+- Provides channel, level, keyword, event ID, provider, computer, user SID, and message searching.
+- Includes summary counts and common forensic event categories.
+- Exports parsed events and log inventory to CSV.
+- Shows event data and raw XML for individual records.

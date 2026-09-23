@@ -1,0 +1,9 @@
+Fraud Fighter Toolbox Suite v6.1
+
+- Added database-backed Chain of Custody page.
+- Added add/edit/delete custody entries and dedicated HTML custody report.
+- Added Chain of Custody section to the full case report.
+- Added registry_definitions table to each case database.
+- Registry Explorer v3.0 loads, edits, enables/disables, imports, and exports definitions from the case database.
+- CSV definitions remain editable in Microsoft Excel and can be re-imported.
+- Schema version advanced to 7.

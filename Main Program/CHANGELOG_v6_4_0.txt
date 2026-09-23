@@ -1,0 +1,7 @@
+Fraud Fighter Toolbox Suite v6.4.0
+
+Main GUI changes only:
+- Added a complete Notes Manager for creating, reading, searching, editing, saving, and deleting case notes.
+- Reports now automatically scans and registers every file in the case Reports folder, regardless of file type.
+- Added report search, reload, file size/modified information, Open Selected, and double-click opening.
+- No plugin or standalone script source files were modified.

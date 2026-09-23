@@ -1,0 +1,7 @@
+Fraud Fighter Toolbox Suite v6.3.1
+
+- Combined the two File Explorer plugins into one three-tab File Explorer.
+- Added Live Evidence, Indexed Database, and Bookmarks tabs.
+- Removed the obsolete Sync to Case DB button and synchronization code.
+- Added Find in Database and Locate in Live Evidence cross-navigation.
+- Added file bookmark creation from both explorer tabs.

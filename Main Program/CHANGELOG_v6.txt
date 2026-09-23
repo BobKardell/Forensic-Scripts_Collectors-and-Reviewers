@@ -1,0 +1,10 @@
+Fraud Fighter Toolbox v6.0
+
+- Restored branded logo on welcome screen and case navigation.
+- Added standard and administrator batch launchers.
+- Added persistent Save Evidence editor.
+- Added mounted_volume/evidence_root fields and schema v6 migration.
+- Selected evidence is passed to plugins as FFT_EVIDENCE_ID and FFT_EVIDENCE_ROOT.
+- Registry Artifacts Explorer v2.1 reads the selected evidence record from the case database.
+- Added registry_artifacts and hive_locations tables.
+- Restored Create Report with HTML case report generation.

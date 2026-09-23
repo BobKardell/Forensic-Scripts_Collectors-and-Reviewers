@@ -1,0 +1,2 @@
+﻿Category,ArtifactName,Hive,KeyPath,ValueName,DataType,Description,Enabled,Recursive,DisplayOrder,Version
+Example,Example Run Key,SOFTWARE,Microsoft\Windows\CurrentVersion\Run,,,Example custom definition,1,0,1000,1.0

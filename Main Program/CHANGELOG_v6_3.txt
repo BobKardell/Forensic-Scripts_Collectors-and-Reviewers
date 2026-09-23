@@ -1,0 +1,8 @@
+Fraud Fighter Toolbox Suite 6.3
+
+- Added case-wide Bookmarks above Notes.
+- Added bookmark viewer with search, category filtering, details, add, edit, and delete.
+- Added EXPLORERS navigation group for File, Registry, and PST explorers.
+- Added TIMELINE navigation group for timeline tools.
+- Upgraded case database schema to version 8 with a bookmarks table.
+- Existing case databases are upgraded automatically.
